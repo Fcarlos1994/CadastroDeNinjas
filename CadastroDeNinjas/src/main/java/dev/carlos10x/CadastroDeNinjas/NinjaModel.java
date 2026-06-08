@@ -34,4 +34,6 @@ public class NinjaModel {
     public void setNome(String nome) {
         this.nome = nome;
     }
+
+
 }
