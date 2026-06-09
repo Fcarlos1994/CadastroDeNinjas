@@ -18,8 +18,7 @@ public class NinjaModel {
     String email;
     int idade;
 
-    public NinjaModel() {
-    }
+    public NinjaModel() {}
 
     public NinjaModel(String nome, String email, int idade) {
         this.nome = nome;
